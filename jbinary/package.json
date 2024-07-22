@@ -1,0 +1,54 @@
+{
+  "_from": "@types/jbinary@ts3.7",
+  "_id": "@types/jbinary@0.0.30",
+  "_inBundle": false,
+  "_integrity": "sha512-+ZI8iWBsJXCuNS+KGl9JSJWPIPHGgFUxV3A2HlePQwoZcS2nja6RkJ/sbYw6rdvgSWpP+myrPlD4KrNxRuSBaw==",
+  "_location": "/@types/jbinary",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/jbinary@ts3.7",
+    "name": "@types/jbinary",
+    "escapedName": "@types%2fjbinary",
+    "scope": "@types",
+    "rawSpec": "ts3.7",
+    "saveSpec": null,
+    "fetchSpec": "ts3.7"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/jbinary/-/jbinary-0.0.30.tgz",
+  "_shasum": "117c9b8af67893fce84ef1e4b9612f6eab50283b",
+  "_spec": "@types/jbinary@ts3.7",
+  "_where": "C:\\Users\\edward.zeng\\AppData\\Local\\Microsoft\\TypeScript\\3.7",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Tim Bureck",
+      "url": "https://github.com/tbureck"
+    }
+  ],
+  "dependencies": {
+    "@types/jdataview": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for jBinary",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/jbinary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.3",
+  "typesPublisherContentHash": "80921b5d4cc8386b226efca86c6925961175c7595b50fc30fedc4f9a2393f9ec",
+  "version": "0.0.30"
+}
